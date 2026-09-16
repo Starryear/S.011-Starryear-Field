@@ -1,6 +1,6 @@
 <div align="center">
 
-# 【S.011】 Starryear-Field丨星年·格域
+# 【S.011】Starryear-Field丨星年·格域
 
 **v1.2.3 · Four-panel Photo Distillation**
 
