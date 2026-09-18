@@ -1,5 +1,4 @@
 interface:
-  display_name: "S.011 星年·格域"
-  short_description: "原图裁切、局部放大、极简结构与梦幻余像四格艺术"
-  brand_color: "#C56B3C"
-  default_prompt: "使用 $four-panel-photo-distillation 把照片依次变成原图裁切、抽象局部放大、简约结构和梦幻余像四格作品；每个单格都必须是竖版 2:3，最终四拼整体也必须是竖版 2:3。统一四格的源图色彩角色，尤其让左下格融入整体；只参考变化风格，不参考示例的题材与色调。"
+  display_name: "Starryear-Fourgrid"
+  short_description: "保留原片，把一张照片转译成相互连通的四态摄影抽象四宫格成品"
+  default_prompt: "Use $starryear-fourgrid to transform this photograph into a clean vertical 2×2 quartet with locked photographic evidence and a source-derived central junction."
